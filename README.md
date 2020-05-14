@@ -1,0 +1,1 @@
+# Monitoring for .NET Core projects
